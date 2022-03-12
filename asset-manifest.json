@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/robot-syndicate/static/css/main.abd3a5f9.chunk.css",
+    "main.js": "/robot-syndicate/static/js/main.f1c4a50b.chunk.js",
+    "main.js.map": "/robot-syndicate/static/js/main.f1c4a50b.chunk.js.map",
+    "runtime-main.js": "/robot-syndicate/static/js/runtime-main.e262c129.js",
+    "runtime-main.js.map": "/robot-syndicate/static/js/runtime-main.e262c129.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/robot-syndicate/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.c0c7a341.chunk.js": "/robot-syndicate/static/js/2.c0c7a341.chunk.js",
+    "static/js/2.c0c7a341.chunk.js.map": "/robot-syndicate/static/js/2.c0c7a341.chunk.js.map",
+    "static/js/3.7ffe3158.chunk.js": "/robot-syndicate/static/js/3.7ffe3158.chunk.js",
+    "static/js/3.7ffe3158.chunk.js.map": "/robot-syndicate/static/js/3.7ffe3158.chunk.js.map",
+    "index.html": "/robot-syndicate/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/robot-syndicate/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.abd3a5f9.chunk.css.map": "/robot-syndicate/static/css/main.abd3a5f9.chunk.css.map",
+    "static/js/2.c0c7a341.chunk.js.LICENSE.txt": "/robot-syndicate/static/js/2.c0c7a341.chunk.js.LICENSE.txt",
+    "static/media/appCss.css": "/robot-syndicate/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e262c129.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.c0c7a341.chunk.js",
+    "static/css/main.abd3a5f9.chunk.css",
+    "static/js/main.f1c4a50b.chunk.js"
+  ]
+}
